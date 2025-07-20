@@ -1,0 +1,1 @@
+# smartshop-config-repo
